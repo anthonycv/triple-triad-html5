@@ -10,7 +10,7 @@ For a list of rules and gameplay instructions,
 ## Controls
 In addition to mouse input, the following keys are supported:
 
- * **Movement**: arrow keys
+ * **Movement**: keys (w,a,s,d)
  * **Select**: Z or Enter
  * **Unselect**: X or Backspace
  * **New Game**: F5
